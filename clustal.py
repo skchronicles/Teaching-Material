@@ -10,7 +10,7 @@ import re
 import subprocess as sp
 import sys
 
-### Objects & Methods ###
+### Classes & Methods ###
 class ClustalReport(object):
     """
     This creates a Clustal Report object which takes in a clustal alignment file
